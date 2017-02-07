@@ -5,8 +5,9 @@ author: Joi Ito
 subtitle: An Interview with Joi Ito
 description: >
   Conducted by Christopher Adams.
-portrait: https://www.flickr.com/photos/joi/1664726431/
-image: https://c1.staticflickr.com/3/2350/1664726431_641c718e8d_z.jpg
+portrait: https://www.flickr.com/photos/joi/5420013543/
+image: https://c2.staticflickr.com/6/5019/5420013543_3d33ae4b53_z.jpg
+credit: Photo by Steve Lantz
 ---
 
 ### What photography gear are you using these days? How are you challenging yourself?
