@@ -3,6 +3,7 @@ layout: essay
 title: Diving Back into Photography
 author: Joi Ito
 subtitle: An Interview with Joi Ito
+excerpt: An Interview with Joi Ito
 description: >
   Conducted by Christopher Adams.
 portrait: https://www.flickr.com/photos/joi/5420013543/
@@ -27,7 +28,8 @@ I've only logged a little over 10 hours so far, so I still have a long way to go
 Initially, I was trying to capture all of my friends, so I carried a camera everywhere.
 At some point, I had photos of most of my friends, so the "yield" on carrying my camera started to diminish.
 I ended up with lots of images of the people I saw often, and even though I was traveling more, I got too busy to take a lot of photos.
-A few years ago, I stopped carrying a camera with me everywhere, so my photostream has dried up, which I guess means I've lost sight of my goal.
+A few years ago, I stopped carrying a camera with me everywhere, so my photostream dried up.
+I guess that means I've lost sight of my goal.
 I'll use the Freesouls project as a trigger to try to keep taking pictures.
 
 I do think that, occasionally, I'm able to capture portraits that help others see what they’re about, and I sort of miss that.
